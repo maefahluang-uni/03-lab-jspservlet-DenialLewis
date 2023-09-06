@@ -29,6 +29,7 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 
 What benefit do we have from having integration tests in our project?
 ```
+Intergration tests help ensure that different parts of the system work together correctly and uncover issues that unit might miss. They provide confidence in the system's behavior in real-world scenarios and help detect inhtegration problems early, contributing to overall software and reliablity, they serve as valuable documentation for system interactions.
 Your though here
 ```
 
